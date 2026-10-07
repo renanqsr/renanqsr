@@ -1,80 +1,91 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.gif" width="100%" alt="Renan Queiroz — Full Stack Developer. Web applications, SQL, debugging and integrations." />
+</p>
 
-## Renan Queiroz
-**Full Stack Developer · Software Engineering Student**
+<p align="center">
+  <a href="https://renanqueiroz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/renanqsr"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=f97316" alt="LinkedIn" /></a>
+</p>
 
-Diadema, SP — Brazil
+### A little about me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-queiroz-simoes-rodrigues)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanqsr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/renanqsr/Portfolio-Renan)
+**Web Development Intern at iLeva mkt · Software Engineering student at FIAP · SENAI graduate**
 
-</div>
+I work on portals, dashboards and operational tools used in production. I connect **frontend interfaces, backend rules, SQL and APIs**, with a practical focus on diagnosing problems and turning operational needs into working software.
 
----
+I'm interested in **AI-powered applications** and the engineering behind reliable systems.
 
-### About me
+<img src="assets/divider.gif" width="100%" alt="Section divider" />
 
-Software Engineering student at FIAP (1st semester) with a Technical degree in Software Development from SENAI (Dec/2025).
+### What I've delivered
 
-I have hands-on experience building real products — from leading the development of **JobIn**, a LinkedIn-inspired platform built during my technical course, to contributing to **MobiliAI**, an AI-powered application built with Next.js, Node.js, MQTT and n8n integrations.
+- **4 dashboards:** built two from scratch and expanded two existing ones, connecting data sources and adding analytical views.
+- **Operational tools:** developed customer support and catalog management panels, including real-time messaging with WebSocket.
+- **Production improvements:** investigated bugs, SQL inconsistencies and performance bottlenecks; implemented targeted security fixes.
 
-I'm looking for my first opportunity as a junior developer or intern where I can keep growing while delivering real results.
+<details>
+<summary><strong>More about analytics, performance & reliability</strong></summary>
 
----
+<br>
 
-### 🛠 Tech Stack
+**Analytics** — GA4/GTM integrations, standardized interaction tracking and visual heatmaps.
 
-**Frontend**
+**Performance** — frontend request queues, PHP session contention and SQL Server investigation using profiling and actual execution plans.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Business rules** — scoring diagnostics and controlled historical data reconciliation.
 
-**Backend**
+**Security** — targeted authentication, session, input handling and concurrency fixes, validated against existing workflows.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+</details>
 
-**Database**
+<img src="assets/divider.gif" width="100%" alt="Section divider" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Technologies & tools
 
-**Tools & Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,react,nextjs,ts,nodejs,git,github,postgres,mysql,tailwind,py,express,fastapi,prisma,docker&theme=dark&perline=9" alt="JavaScript, PHP, HTML, CSS, React, Next.js, TypeScript, Node.js, Git, GitHub, PostgreSQL, MySQL, Tailwind CSS, Python, Express.js, FastAPI, Prisma and Docker" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-f97316?style=for-the-badge" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/REST_APIs-21262d?style=for-the-badge&labelColor=21262d&color=f97316" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSocket-21262d?style=for-the-badge" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/GA4-f97316?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-21262d?style=for-the-badge&logo=googletagmanager&logoColor=f97316" alt="Google Tag Manager" />
+  <img src="https://img.shields.io/badge/SSMS-21262d?style=for-the-badge" alt="SQL Server Management Studio" />
+</p>
 
----
+### Selected projects
 
-### 📌 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | My Role | Description | Stack |
-|---|---|---|---|
-| [JobIn](https://github.com/renanqsr/JobIn) | **Lead Developer** | LinkedIn-inspired professional network built at SENAI | React · Node.js · MySQL |
-| [MobiliAI](https://github.com/Guimenn/MobiliAI) | Collaborator | AI-powered application — graduation project (TCC) | Next.js · Node.js · MQTT · n8n |
-| [SalesNexus Cloud](https://github.com/Guimenn/salesnexus-cloud) | Collaborator | Cloud-based sales management system | React · Vite · Node.js |
-| [Portfolio](https://github.com/renanqsr/Portfolio-Renan) | Solo | Personal portfolio website | HTML · CSS · JS |
+<h3>MobiliAI</h3>
+<p><strong>AI-assisted furniture platform</strong></p>
+<p>SENAI team graduation project combining furniture visualization with administrative tools.</p>
+<p><strong>My work:</strong> admin dashboard, access profiles, coupon assignment, contribution to Replicate API integration, presentation page and brand identity.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>APIs</code></p>
+<p><a href="https://github.com/Guimenn/MobiliAI"><strong>Explore the code →</strong></a></p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+<h3>Personal portfolio</h3>
+<p><strong>Experience, projects & background</strong></p>
+<p>My personal website bringing together my development experience and projects, with Portuguese and English versions.</p>
+<p><strong>My work:</strong> development of the website with Next.js and TypeScript.</p>
+<p><code>Next.js</code> <code>TypeScript</code></p>
+<p><a href="https://renanqueiroz.vercel.app/"><strong>Visit the website →</strong></a></p>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanqsr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&count_private=true)
+<img src="assets/divider.gif" width="100%" alt="Section divider" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renanqsr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&langs_count=6)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to junior roles and internships · Let's build something.*
-
-</div>
+<p align="center">
+  <strong>Open to junior developer roles & development internships</strong><br>
+  São Paulo & ABC region · On-site, hybrid or remote<br><br>
+  <a href="https://renanqueiroz.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/renanqsr">LinkedIn</a>
+</p>
